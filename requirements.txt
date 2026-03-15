@@ -1,0 +1,8 @@
+## 📄 requirements.txt
+```
+tensorflow
+numpy
+pandas
+matplotlib
+scikit-learn
+pathlib
