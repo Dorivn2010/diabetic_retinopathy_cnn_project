@@ -30,12 +30,3 @@ See `requirements.txt`
 ## Author
 Kevin Adjei Aholou — [@Dorivn2010](https://github.com/Dorivn2010)
 ```
-
-## 📄 requirements.txt
-```
-tensorflow
-numpy
-pandas
-matplotlib
-scikit-learn
-pathlib
